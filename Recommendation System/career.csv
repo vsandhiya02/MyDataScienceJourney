@@ -1,0 +1,62 @@
+Career_Title,Required_Skills,Related_Interests,Experience_Level_Req,Industry,Typical_Progression,Certifications_Courses
+Drawing Artist,Drawing;Creativity;Sketching,Drawing;Designing;Art,Student to Experienced,Arts & Creative,Junior Artist -> Senior Artist -> Art Director,Art courses;Portfolio development
+Dancing Instructor,Dance Techniques;Choreography;Communication,Dancing;Fitness;Performing Arts,Student to Experienced,Arts & Creative,Instructor -> Senior Instructor -> Studio Owner,Dance certifications;Workshops
+Singing Artist,Vocal Training;Performance;Music Theory,Singing;Music;Performing Arts,Student to Experienced,Arts & Creative,Junior Singer -> Lead Singer -> Vocal Coach,Music Schools;Vocal coaching
+Sports Coach,Physical Fitness;Strategy;Team Management,Sports;Exercise;Leadership,Student to Experienced,Sports & Fitness,Assistant Coach -> Head Coach -> Manager,Coaching certifications
+Video Editor,Video Editing;Creativity;Storytelling,Video;Content creation;Media,Student to Experienced,Creative & Media,Junior Editor -> Senior Editor -> Creative Director,Adobe Premiere;Final Cut Pro
+Game Developer,Programming;Game Design;Graphics,Game;Coding;Creative Design,Student to Experienced,IT / Gaming,Junior Developer -> Senior Developer -> Lead Designer,Game Design courses;Unity;Unreal Engine
+Actor,Acting;Voice Control;Expression,Acting;Drama;Theatre,Student to Experienced,Arts & Entertainment,Junior Actor -> Lead Actor -> Director,Drama schools;Workshops
+Travel Blogger,Writing;Photography;SEO,Travelling;Content creation;Social Media,Student to Experienced,Media & Travel,Blogger -> Influencer -> Content Creator,SEO courses;Social Media marketing
+Gardener,Botany;Horticulture;Plant Care,Gardening;Nature;Botany,Student to Experienced,Agriculture & Environment,Assistant Gardener -> Gardener -> Landscape Designer,Horticulture courses
+Animal Caretaker,Animal Handling;Veterinary Basics;Empathy,Animals;Biology;Caregiving,Student to Experienced,Healthcare & Environment,Assistant -> Caretaker -> Supervisor,Animal care certificates
+Photographer,Photography;Editing;Creativity,Photography;Art;Travel,Student to Experienced,Creative & Media,Assistant Photographer -> Professional Photographer -> Studio Owner,Photography courses
+Teacher,Subject Knowledge;Communication;Patience,Teaching;Education;Mentoring,Student to Experienced,Education,Assistant Teacher -> Teacher -> Head of Department,B.Ed;Teaching certifications
+Fitness Trainer,Exercise Science;Motivation;Communication,Exercise;Health;Fitness,Student to Experienced,Health & Fitness,Trainer -> Senior Trainer -> Fitness Manager,ACE;NASM certifications
+Software Developer,Programming (Java;Python);Problem Solving,Coding;Software Development,Student to Experienced,IT,Junior Dev -> Senior Dev -> Tech Lead,Coding bootcamps;CS Degree
+Electrician,Electrical Systems;Safety;Problem Solving,Electricity;Mechanics;Technical Work,Student to Experienced,Engineering & Maintenance,Apprentice -> Electrician -> Supervisor,Electrician licenses
+Mechanical Technician,Mechanical Knowledge;Tool Handling;Diagnostics,Mechanic;Components;Repair,Student to Experienced,Engineering & Maintenance,Junior Technician -> Technician -> Senior Technician,Technical diplomas
+Computer Hardware Technician,Hardware Repair;Troubleshooting;Networking,Computer Parts;Technical Support,Student to Experienced,IT / Hardware,Technician -> Senior Technician -> Manager,CompTIA A+;Hardware Certifications
+Research Scientist,Research;Data Analysis;Writing,Researching;Science;Innovation,Graduate to Experienced,Research & Development,Research Assistant -> Scientist -> Principal Scientist,PhD;Research publications
+Architect,Design;CAD;Project Management,Architecture;Design;Construction,Student to Experienced,Engineering & Construction,Junior Architect -> Architect -> Senior Architect,Architecture licensure
+Historian,Research;Writing;Analysis,Historic;Research;Education,Graduate to Experienced,Education & Research,Assistant Historian -> Historian -> Senior Historian,History degrees;Research certifications
+Collector,Organizing;Research;Networking,Collection;History;Art,Student to Experienced,Arts & Culture,Collector -> Expert -> Curator,Curatorial courses
+Botanist,Plant Biology;Fieldwork;Research,Botany;Science;Nature,Graduate to Experienced,Science & Environment,Research Assistant -> Botanist -> Senior Botanist,Biology degrees;Research certifications
+Zoologist,Animal Biology;Field Research;Analysis,Zoology;Animals;Research,Graduate to Experienced,Science & Environment,Research Assistant -> Zoologist -> Senior Zoologist,Biology degrees;Research certifications
+Physicist,Mathematics;Research;Experimentation,Physics;Science;Research,Graduate to Experienced,Science & Research,Research Assistant -> Physicist -> Senior Researcher,Physics degrees;PhD
+Accountant,Accounting;Excel;Financial Reporting,Accounting;Business;Finance,Fresher to Experienced,Finance & Business,Junior Accountant -> Accountant -> Finance Manager,CPA;Accounting certifications
+Economist,Economics;Data Analysis;Research,Economics;Business;Research,Graduate to Experienced,Finance & Research,Junior Economist -> Economist -> Senior Economist,Economics degrees;Research certifications
+Sociologist,Research;Data Collection;Analysis,Sociology;Social Science;Research,Graduate to Experienced,Research & Education,Research Assistant -> Sociologist -> Senior Sociologist,Sociology degrees;Research certifications
+Geographer,GIS;Fieldwork;Data Analysis,Geography;Environment;Research,Graduate to Experienced,Science & Research,Junior Geographer -> Geographer -> Senior Geographer,GIS Certifications
+Psychologist,Counselling;Research;Communication,Psychology;Social Science;Health,Graduate to Experienced,Healthcare & Research,Assistant Psychologist -> Psychologist -> Clinical Psychologist,Psychology licensure
+Historian,Research;Writing;Analysis,History;Research;Education,Graduate to Experienced,Education & Research,Assistant Historian -> Historian -> Senior Historian,History degrees;Research certifications
+Scientist,Research;Experimentation;Data Analysis,Science;Research;Innovation,Graduate to Experienced,Science & Technology,Research Assistant -> Scientist -> Principal Scientist,Science degrees;PhD
+Business Analyst,Data Analysis;Communication;Problem Solving,Business;Analytics;Finance,Fresher to Experienced,Business & Finance,Analyst -> Senior Analyst -> Manager,CBAP;Business Analytics courses
+Education Specialist,Teaching;Curriculum Development;Communication,Education;Training;Mentoring,Experienced,Education,Trainer -> Corporate Trainer -> Education Specialist,B.Ed;Training certifications
+Chemist,Chemistry;Lab Techniques;Research,Chemistry;Science;Research,Graduate to Experienced,Science & Healthcare,Junior Chemist -> Chemist -> Senior Chemist,Chemistry degrees;Lab certifications
+Mathematician,Mathematics;Problem Solving;Research,Mathematics;Science;Research,Graduate to Experienced,Science & Education,Research Assistant -> Mathematician -> Senior Mathematician,Math degrees;Research certifications
+Biologist,Biology;Research;Fieldwork,Biology;Science;Nature,Graduate to Experienced,Science & Research,Research Assistant -> Biologist -> Senior Biologist,Biology degrees;Research certifications
+Makeup Artist,Makeup Techniques;Creativity;Customer Service,Makeup;Designing;Beauty,Student to Experienced,Creative & Media,Junior Artist -> Makeup Artist -> Senior Artist,Makeup courses;Cosmetology certifications
+Graphic Designer,Photoshop;Creativity;Designing,Drawing;Designing;Content writing,Student to Experienced,Creative & Media,Junior Designer -> Senior Designer -> Art Director,Adobe Certified Expert
+Content Writer,Writing;SEO;Research,Content writing;Literature;Marketing,Student to Experienced,Creative & Media,Writer -> Senior Writer -> Editor,SEO courses;Writing workshops
+Craft Artist,Crafting;Creativity;Designing,Crafting;Art;Design,Student to Experienced,Creative & Media,Junior Artist -> Senior Artist -> Studio Owner,Craft courses;Workshops
+Literature Specialist,Literature;Writing;Research,Literature;Reading;Education,Graduate to Experienced,Education & Research,Research Assistant -> Specialist -> Professor,Literature degrees;Research certifications
+Cartoonist,Drawing;Creativity;Storytelling,Drawing;Art;Animation,Student to Experienced,Creative & Media,Junior Cartoonist -> Senior Cartoonist -> Art Director,Animation courses;Portfolio
+Debater,Public Speaking;Critical Thinking;Research,Debating;Politics;Education,Student to Experienced,Education & Media,Debater -> Speaker -> Coach,Public speaking courses
+Astrologer,Astrology;Research;Communication,Astrology;Mysticism;Culture,Student to Experienced,Other Fields,Junior Astrologer -> Astrologer -> Consultant,Astrology courses
+Language Teacher (Hindi),Language Skills;Teaching;Communication,Hindi;Language;Education,Student to Experienced,Education,Assistant Teacher -> Teacher -> Head of Department,B.Ed;Language Teaching certifications
+French Translator,French Language;Translation;Communication,French;Language;Literature,Student to Experienced,Education & Media,Translator -> Senior Translator -> Manager,Language certifications
+English Teacher,English Language;Teaching;Communication,English;Language;Education,Student to Experienced,Education,Assistant Teacher -> Teacher -> Head of Department,B.Ed;TESOL certifications
+Urdu Language Specialist,Urdu Language;Teaching;Writing,Urdu;Language;Culture,Student to Experienced,Education & Media,Specialist -> Senior Specialist -> Professor,Language certifications
+Other Language Specialist,Multilingual;Translation;Communication,Language;Culture;Education,Student to Experienced,Education & Media,Specialist -> Senior Specialist -> Manager,Language certifications
+Puzzle Solver,Problem Solving;Logic;Analysis,Solving;Puzzles;Mathematics,Student to Experienced,Education & Entertainment,Solver -> Coach -> Expert,Logic courses;Puzzle competitions
+Gymnast,Gymnastics;Strength;Flexibility,Gymnastics;Exercise;Fitness,Student to Experienced,Sports & Fitness,Junior Gymnast -> Senior Gymnast -> Coach,Gymnastics certifications
+Yoga Instructor,Yoga Practice;Anatomy;Communication,Yoga;Exercise;Health,Student to Experienced,Health & Fitness,Instructor -> Senior Instructor -> Studio Owner,Yoga Alliance Certification
+Engineer,Engineering Principles;Problem Solving;Design,Engineering;Science;Technology,Student to Experienced,Engineering & Technology,Junior Engineer -> Engineer -> Senior Engineer,Engineering degrees;Professional Engineer License
+Doctor,Medicine;Patient Care;Diagnosis,Doctor;Healthcare;Science,Graduate to Experienced,Healthcare,Intern -> Resident -> Consultant,Medical Degree;License
+Pharmacist,Pharmacology;Chemistry;Customer Service,Pharmacist;Healthcare;Science,Graduate to Experienced,Healthcare,Assistant Pharmacist -> Pharmacist -> Senior Pharmacist,Pharmacy Degree;License
+Cyclist (Professional),Cycling;Endurance;Strategy,Cycling;Sports;Fitness,Student to Experienced,Sports & Fitness,Junior Cyclist -> Professional Cyclist -> Coach,Cycling certifications
+Knitting Artist,Knitting;Creativity;Design,Knitting;Crafting;Art,Student to Experienced,Creative & Media,Junior Artist -> Senior Artist -> Studio Owner,Craft courses
+Director (Film/Theatre),Directing;Communication;Creativity,Director;Film;Theatre,Experienced,Creative & Media,Assistant Director -> Director -> Producer,Film School;Directing workshops
+Journalist,Writing;Research;Communication,Journalism;Media;Reporting,Fresher to Experienced,Media,Reporter -> Senior Reporter -> Editor,Journalism degrees;Media certifications
+Machine Learning Engineer,Python;Machine Learning;Algorithms,Coding;AI;Researching,Fresher to Experienced,IT / Analytics,Junior ML Engineer -> Senior ML Engineer -> Lead,Coursera ML;Fast.ai
+Data Analyst,SQL;Excel;Data Visualization,Coding;Analytics;Research,Fresher to Experienced,IT / Analytics,Junior Analyst -> Senior Analyst -> Lead Analyst,Data Analysis courses
